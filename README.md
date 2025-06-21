@@ -6,7 +6,7 @@ A modern, responsive **Product Landing Page** built using only **HTML5** and **C
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live project](https://your-github-username.github.io/SmartFit-Landing-Page/)  
+👉 [Click here to view the live project](https://codewithokasha.github.io/SmartFit-Landing-Page/)  
 _(Replace the link with your actual GitHub Pages live link)_
 
 ---
